@@ -2,7 +2,7 @@
 
 Simple WhatsApp Bot
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Nurutomo/wabot-aq)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Imran95942/islaffggg)
 
 ## FOR TERMUX/UBUNTU/SSH USER
 
@@ -15,7 +15,7 @@ apt install imagemagick -y
 git clone https://github.com/Nurutomo/wabot-aq
 cd wabot-aq
 npm install
-npm update
+npm updatehttps://github.com/Imran95942/islaffggg
 ```
 
 ## INSTALL ON TERMUX WITH UBUNTU
